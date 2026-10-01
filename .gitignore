@@ -1,0 +1,14 @@
+# Visual Studio / CUDA build output
+.vs/
+x64/
+Debug/
+Release/
+*.user
+*.obj
+*.pdb
+*.ilk
+*.exe
+*.exp
+*.lib
+*.tlog
+*.log
